@@ -1,6 +1,6 @@
 # Span207FinalProj
 
-Si te gustaría reproducir los resultados de nuestras investigaciones (cmaloney0.me/spanish), sigue los siguientos pasos
+Si te gustaría reproducir los resultados de nuestras investigaciones (https://cmaloney0.me/spanish), sigue los siguientos pasos
 
 1. Descarga e instala Python en tu sistema (https://www.python.org/downloads/)
 2. Instala las dependencias ejecutando el siguiente comando en la terminal:
